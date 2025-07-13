@@ -1,0 +1,32 @@
+.category .active {
+    color: var(--primary-400);
+}
+
+.page-item .btn {
+    padding: 8px 15px;
+    border-radius:0;
+    font-weight: 400;
+}
+
+.page-item .active {
+    background-color: var(--primary-300);
+    font-weight: 500;
+}
+
+.footer{
+    background: var(--neutral-100);
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+.section-lined {
+    border-top: 1px solid var(--neutral-300);
+}
+
+.footer-note{
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    color: var(--neutral-600);
+    padding-top: 32px;
+}
